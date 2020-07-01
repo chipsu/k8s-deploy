@@ -1,0 +1,1 @@
+Shitty envsubst deployment script thing for kubectl or skaffold.
